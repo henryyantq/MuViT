@@ -5,4 +5,4 @@ Please note that MuViT works much better when responding to strongly rhythmic au
 
 The architecture of MuViT is shown below:
 
-![MuViT_process](https://user-images.githubusercontent.com/20149275/192531498-84309068-5482-42da-afd4-987b45200d18.jpg)
+![MuViT_process](https://user-images.githubusercontent.com/20149275/192539876-d20bdaa4-3639-4880-a2ea-1bcaf9561a45.png)
